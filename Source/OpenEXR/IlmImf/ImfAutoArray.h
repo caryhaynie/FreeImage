@@ -37,6 +37,8 @@
 #ifndef INCLUDED_IMF_AUTO_ARRAY_H
 #define INCLUDED_IMF_AUTO_ARRAY_H
 
+#include <string.h>
+
 //-----------------------------------------------------------------------------
 //
 //	class AutoArray -- a workaround for systems with
